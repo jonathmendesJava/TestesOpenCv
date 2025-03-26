@@ -96,8 +96,7 @@ O monitoramento continua até que o usuário finalize o programa.
 
 📌 Integração com sistemas de segurança externos.
 
-👨‍💻 Autor
-
-Jonathan Mendes📌 GitHub: jonathmendesJava
+👨‍💻 Autor: Jonath Mendes
+📌 GitHub: jonathmendesJava
 
 Se gostou do projeto, deixe uma ⭐ no repositório!
